@@ -1,4 +1,5 @@
 
+//using async/await
 const {apiData} = require('./module');
 
 apiData.then((apiData) => {
